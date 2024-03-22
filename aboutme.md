@@ -6,13 +6,16 @@ My technical skills include:
 
 ◻️ **SQL**
 
-◻️ **Excel**
-
-◻️ **Google Sheets**
+◻️ **Python**
 
 ◻️ **Tableau**
 
-◻️ **Data Visualization**
+◻️ **Power Bi**
+
+◻️ **Relational Databases**
+
+◻️ **Google Sheets**
+
 
 🌐 Visit my [𝐃𝐚𝐭𝐚 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨](https://madeehaumar.github.io/)
 
