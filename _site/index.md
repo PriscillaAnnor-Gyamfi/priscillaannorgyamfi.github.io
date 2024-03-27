@@ -22,10 +22,15 @@
 ### Learn About My Projects
 
 
+
+
+
 #### ["Airbnb Project"](https://github.com/PriscillaAnnor-Gyamfi/AirBnB)
 [<img src="images/Airbnb.png"/>](https://github.com/PriscillaAnnor-Gyamfi/AirBnB)
 
 This project was blabla bla
+
+---
 
 
 #### ["The Winning Playbook" NBA Teams' Performance Analysis for 2021-2022 with Tableau](https://www.linkedin.com/pulse/winning-playbook-nba-teams-performance-analysis-2021-2022-umar/)
