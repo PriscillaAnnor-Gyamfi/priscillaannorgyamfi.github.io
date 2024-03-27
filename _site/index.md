@@ -23,7 +23,7 @@
 
 
 #### ["Airbnb Project"](https://github.com/PriscillaAnnor-Gyamfi/AirBnB)
-[<img src="https://t.ctcdn.com.br/ExzNITqN_wjxFZqXnBoahLPyEvQ=/1024x576/smart/i371053.jpeg"/>](https://github.com/PriscillaAnnor-Gyamfi/AirBnB)
+[<img src="images/Airbnb.png"/>](https://github.com/PriscillaAnnor-Gyamfi/AirBnB)
 
 This project was blabla bla
 
